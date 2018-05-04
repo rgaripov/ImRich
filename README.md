@@ -1,0 +1,1 @@
+There is my realisation of "I am Rich" app.
